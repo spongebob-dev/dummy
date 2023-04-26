@@ -1,0 +1,11 @@
+{
+  "name": "brevo/dummy",
+  "description": "Testing release",
+  "type": "library",
+  "require": {
+    "php": ">=8.3.0"
+  },
+  "license": "proprietary",
+  "authors": [],
+  "minimum-stability": "dev"
+}
